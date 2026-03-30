@@ -43,4 +43,4 @@ async def check(ctx):
     else:
         await ctx.send("You forgot to upload the image :(")
 
-bot.run()
+bot.run(#ENTER DISCORD BOT CODE HERE)
