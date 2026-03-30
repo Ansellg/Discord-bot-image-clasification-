@@ -1,1 +1,1 @@
-IN THE FILE CODE, DON'T FORGET TO ADD THE DISCORD BOT CODE SO YOUR BOT CAN WORK PROPERLY
+Don't forget to add your OWN discord bot code 😄👍. Or it won't work 😢.
